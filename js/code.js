@@ -67,7 +67,7 @@ function getQuestion() {
       feedbackEl.textContent = 'Wrong';
       feedbackEl.style.backgroundColor = 'red';
       // subtract 5 seconds from timer
-      time -= 10;
+      time -= 15;
     }
   
     // // flash right/wrong feedback
