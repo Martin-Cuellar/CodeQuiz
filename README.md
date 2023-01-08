@@ -5,7 +5,8 @@
 
 A functioning quiz that allows the user to compare scores with one another. 
 
-![Code Quiz Pic](https://user-images.githubusercontent.com/118318413/211223294-2a846ce0-483f-488c-b607-ce880f2fb329.png)
+![code quiz picc](https://user-images.githubusercontent.com/118318413/211223609-a6e50872-bf06-4143-bf0a-08bd59a75dd0.png)
+
 
 ## Installation
  
